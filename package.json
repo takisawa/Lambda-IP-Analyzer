@@ -1,0 +1,19 @@
+{
+  "name": "lambda-ip-analyzer",
+  "version": "1.0.0",
+  "description": "Analyzer AWS Lambda IPs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node driver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takisawa/Lambda-IP-Analyzer.git"
+  },
+  "author": "Hiroaki Takisawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takisawa/Lambda-IP-Analyzer/issues"
+  },
+  "homepage": "https://github.com/takisawa/Lambda-IP-Analyzer#readme"
+}
