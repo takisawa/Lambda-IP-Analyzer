@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/takisawa/Lambda-IP-Analyzer/issues"
   },
-  "homepage": "https://github.com/takisawa/Lambda-IP-Analyzer#readme"
+  "homepage": "https://github.com/takisawa/Lambda-IP-Analyzer#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
 }
